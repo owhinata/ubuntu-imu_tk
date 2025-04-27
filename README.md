@@ -15,3 +15,9 @@ docker run -it --rm --network host \
 ubuntu-imu_tk \
 test_imu_calib xsens_acc.mat xsens_gyro.mat
 ```
+
+## Refs.
+
+[imu_tk](https://bitbucket.org/alberto_pretto/imu_tk/)
+
+[ros-imu_tk](https://github.com/Neil-Oyoung/imu_tk/tree/master)
